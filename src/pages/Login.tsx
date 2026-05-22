@@ -42,7 +42,7 @@ export default function Login() {
           <Scale className="h-6 w-6 text-primary-foreground" strokeWidth={2.4} />
         </div>
         <div className="text-center leading-tight">
-          <p className="text-base font-semibold">Santos Advocacia</p>
+          <p className="text-base font-semibold">Carrascossi Ramos Advocacia</p>
           <p className="text-[11px] text-muted-foreground uppercase tracking-wider">Painel Meta Ads</p>
         </div>
       </div>
