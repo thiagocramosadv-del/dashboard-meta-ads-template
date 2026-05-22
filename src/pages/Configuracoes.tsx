@@ -66,7 +66,7 @@ const Configuracoes = () => {
           <div className="flex-1 min-w-0">
             <p className="text-sm font-semibold">Conectado</p>
             <p className="text-xs text-muted-foreground truncate">
-              Santos Advocacia · BM #1827xxxx
+              Carrascossi Ramos Advocacia · BM #1827xxxx
             </p>
           </div>
         </div>
