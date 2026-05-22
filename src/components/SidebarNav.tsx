@@ -44,7 +44,7 @@ export const SidebarNav = ({ onNavigate }: Props) => {
             <Scale className="h-5 w-5 text-primary-foreground" strokeWidth={2.4} />
           </div>
           <div className="leading-tight">
-            <p className="text-sm font-semibold text-foreground">Santos Advocacia</p>
+            <p className="text-sm font-semibold text-foreground">Carrascossi Ramos Advocacia</p>
             <p className="text-[11px] text-muted-foreground uppercase tracking-wider">
               Painel Meta Ads
             </p>
